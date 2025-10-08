@@ -10,7 +10,7 @@
 
 ---
 
-### 💫 About Me~
+### About Me~
 - 🌱 Lagi belajar *pemrograman Python* dan eksplor dunia teknologi.  
 - 🎓 Mahasiswi semester 3 di jurusan IT.  
 - ✨ Punya mimpi ke *Mekkah*, *Switzerland* dan *Bulan*.  
@@ -19,7 +19,7 @@
 
 ---
 
-### 🛠️ Tools & Skill
+### Tools & Skill
 - Python 🐍  
 - Git & GitHub 🌸  
 - HTML & Markdown  
@@ -28,7 +28,7 @@
 
 ---
 
-### 🌈 Quote
+### Quote
 > "Even the moon shines because it dares to face the dark." 🌙
 
 ---
